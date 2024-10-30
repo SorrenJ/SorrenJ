@@ -16,7 +16,7 @@ A Llama therapeutic assistant trained to advise users with sleep-related prompts
 #### 😷📷 [Facemask Detection App](https://sorrenj.github.io/MaskPass.html) 
 An Android app developed to determine if a person is wearing a non-medical mask using the phone camera, in response to COVID-19.
 
-### 👩‍🎓👨‍🎓 [SFU Student Webpage Creator](https://sorrenj.github.io/Profile_Helper.html)
+#### 👩‍🎓👨‍🎓 [SFU Student Webpage Creator](https://sorrenj.github.io/Profile_Helper.html)
 JavaScript jQuery browser used to generate student profile webpages.
 
 
