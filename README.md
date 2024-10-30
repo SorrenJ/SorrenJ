@@ -2,11 +2,11 @@ Howdy, I’m a Full-stack developer with a background in UX design and human-com
 
 My Skill Highlight
 
-React.js
-Express
-Vanilla JavaScript
-Android studios
-CSS3
-SQL
-Java
+* React.js
+* Express
+* Vanilla JavaScript
+* Android studios
+* CSS3
+* SQL
+* Java
 
