@@ -10,7 +10,7 @@ A React virtual pet game where you can feed, clean, play, train, and chat with i
 ### 👣🗺️ [Map Listing Web Application](https://github.com/SorrenJ/Wiki_Map) with [bushrapatel28](https://github.com/bushrapatel28) & [JorgeLMedina](https://github.com/JorgeLMedina)
 An Express app that allows users to collaboratively create maps which list multiple "points". 
 
-### 😴🛏️ [Sleep Wellness Chatbot](https://github.com/shaaagri/iat481-nlp-proj) with [shaaagri](https://github.com/shaaagri/iat481-nlp-proj)
+### 😴🛏️ [Sleep Wellness Chatbot](https://github.com/shaaagri/iat481-nlp-proj) with [shaaagri](https://github.com/shaaagri)
 A Llama therapeutic assistant trained to advise users with sleep-related prompts through chat. 
 
 ### 😷📷 [Facemask Detection App](https://sorrenj.github.io/MaskPass.html) 
