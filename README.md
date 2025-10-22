@@ -17,7 +17,7 @@ I’m a Full-stack AI developer with a background in AI & LLM technologies and U
 <table>
   <tr>
     <td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorrenJ&layout=pie&theme=transparent&stats_format=bytes&hide=jupyter%20notebook,shaderlab,cmake,ruby" alt="Top Languages" style="background-color: transparent; " />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorrenJ&layout=compact&theme=transparent&stats_format=bytes&hide=jupyter%20notebook,shaderlab,cmake,ruby" alt="Top Languages" style="background-color: transparent; " />
     </td>
     <td>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
