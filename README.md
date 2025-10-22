@@ -14,12 +14,7 @@ I’m a Full-stack AI developer with a background in AI & LLM technologies and U
 
 
 
-<table>
-  <tr>
-    <td>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorrenJ&layout=compact&theme=transparent&stats_format=bytes&hide=jupyter%20notebook,shaderlab,cmake,ruby" alt="Top Languages" style="background-color: transparent; " />
-    </td>
-    <td>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
@@ -27,7 +22,6 @@ I’m a Full-stack AI developer with a background in AI & LLM technologies and U
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Azure" />
@@ -40,10 +34,8 @@ I’m a Full-stack AI developer with a background in AI & LLM technologies and U
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Ultralytics-Object%20Detection-00FFFF?style=for-the-badge&logo=ultralytics" alt="Ultralytics" />
-    </td>
-  </tr>
-</table>
-
+<br><br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorrenJ&layout=compact&theme=transparent&stats_format=bytes&hide=jupyter%20notebook,shaderlab,cmake,ruby" alt="Top Languages" style="background-color: transparent; " />
 
 <hr>
 
