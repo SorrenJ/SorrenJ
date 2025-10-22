@@ -1,19 +1,19 @@
-## Hi, I'm Sorren!
-I’m a Full-stack AI developer with a background in AI & LLM technologies and UX design / UI principles. It is my passion to combine these skills to develop some cool, user-friendly web apps. 
+  ## Hi there, I'm Sorren
+<table>
+  <tr>
+    <td>
+      I’m a Full-stack AI developer with a background in AI & LLM technologies and UX design / UI principles. It is my passion to combine these skills to develop some cool, user-friendly web apps. 
+    </td>
+    <td>
+<a href="https://sorrenj.github.io/"><img src="https://img.shields.io/badge/Portfolio-Sorren%20Jao-pink?logo=linkedin" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sorren-alex-jao/"><img src="https://img.shields.io/badge/LinkedIn-Sorren%20Jao-blue?logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:soalexjao@gmail.com"><img src="https://img.shields.io/badge/Email-soalexjao%40gmail.com-red?logo=gmail" alt="Gmail" /></a>
+    </td>
+  </tr>
+</table>
 
 
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Sorren%20Jao-pink?logo=linkedin)](https://sorrenj.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sorren%20Jao-blue?logo=linkedin)](https://www.linkedin.com/in/sorren-alex-jao/)
-[![Gmail](https://img.shields.io/badge/Email-soalexjao%40gmail.com-red?logo=gmail)](mailto:soalexjao@gmail.com)
-
-<hr>
-
-### Tech Stack Masteries
-
-
-
+## Tech Stack Masteries
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -34,12 +34,12 @@ I’m a Full-stack AI developer with a background in AI & LLM technologies and U
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Ultralytics-Object%20Detection-00FFFF?style=for-the-badge&logo=ultralytics" alt="Ultralytics" />
-<br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorrenJ&layout=compact&theme=transparent&stats_format=bytes&hide=jupyter%20notebook,shaderlab,cmake,ruby" alt="Top Languages" style="background-color: transparent; " />
 
 <hr>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorrenJ&layout=donut&theme=transparent&stats_format=bytes&hide=jupyter%20notebook,shaderlab,cmake,ruby,html" alt="Top Languages" style="background-color: transparent; width: 100%; height: auto;" />
 
-### Project Highlights
+## Project Highlights
 
 #### 💲📈 Financial Assistant with [Expense Trend](https://www.expensetrend.com/) 
 An AI financial advisor that leverages creative prompt engineering to transform complex user data into engaging, easy-to-understand budgeting insights. Developed by architecting the LLM's personality and response strategy, then deployed as a full-stack app.
